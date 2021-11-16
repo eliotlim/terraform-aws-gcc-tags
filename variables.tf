@@ -1,4 +1,4 @@
-variable "Agency" {
+variable "Agency-Code" {
   description = "The agency initials"
   type        = string
 }

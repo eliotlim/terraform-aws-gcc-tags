@@ -6,7 +6,7 @@ locals {
 
   # Compile the output tag set
   tags = {
-    Agency       = var.Agency
+    Agency-Code  = var.Agency-Code
     Project-Code = var.Project-Code
     Environment  = var.Environment
     Zone         = var.Zone
